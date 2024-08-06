@@ -57,6 +57,7 @@ Escolhi 5 perguntas de cada nível para demonstrar meu conhecimento de forma uni
 
 
 5 - For every admission, display the patient's full name, their admission diagnosis, and their doctor's full name who diagnosed their problem.
+
 ![image](https://github.com/user-attachments/assets/82ec4855-9946-416a-b622-6731586ba984)
 
 
