@@ -12,14 +12,17 @@ Escolhi 5 perguntas de cada nível para demonstrar meu conhecimento de forma uni
 <h2>Questions - Easy</h2>
 
 1 - Write a query to find list of patients first_name, last_name, and allergies where allergies are not null and are from the city of 'Hamilton'
+
 ![image](https://github.com/user-attachments/assets/989e2817-e3fb-4b0e-9326-eaa36f9e4214)
 
 
 2 - Write a query to find the first_name, last name and birth date of patients who has height greater than 160 and weight greater than 70
+
 ![image](https://github.com/user-attachments/assets/96b187fc-2582-4b23-8909-7bfe26a695f5)
 
 
 3 - Show first name and last name of patients that weight within the range of 100 to 120 (inclusive)
+
 ![image](https://github.com/user-attachments/assets/6518a7c8-fdf7-4176-90e6-33ceec277e3a)
 
 
@@ -82,10 +85,12 @@ The password must be the following, in order:
 
 
 3 - Sort the province names in ascending order in such a way that the province 'Ontario' is always on top.
+
 ![image](https://github.com/user-attachments/assets/86b29c39-ccc8-4b16-92c5-ac753b07b87f)
 
 
 4 - Show the percent of patients that have 'M' as their gender. Round the answer to the nearest hundreth number and in percent form.
+
 ![image](https://github.com/user-attachments/assets/fcb53058-ea3a-48da-a1b3-b122cc474208)
 
 
