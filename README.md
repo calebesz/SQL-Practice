@@ -1,5 +1,5 @@
 # SQL-Practice
-Portfolio usando a plataforma www.sql-practice.com/ com a base de dados hospital, variando desafios fáceis, médios e dificeis
+Projeto SQL usando a plataforma www.sql-practice.com/ com a base de dados hospital, variando desafios fáceis, médios e dificeis
 
 Escolhi 5 perguntas de cada nível para demonstrar meu conhecimento de forma uniforme.
 
